@@ -1,4 +1,6 @@
-require 'sinatra'
+require 'bundler'
+Bundler.require
+
 require 'json'
 
 get '/' do
