@@ -111,3 +111,9 @@ Design a `user` `div`, with the intention of having three per row.
 You can use anything that Skeleton has to offer.  For example, [tables](http://getskeleton.com/#tables)!  
 
 This will give you a small sense of pride, as your layouts will look much cleaner.
+
+```html
+<div class="user four columns">
+  <!-- stuff goes here -->
+</div>
+```
